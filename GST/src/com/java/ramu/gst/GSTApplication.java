@@ -131,6 +131,8 @@ public class GSTApplication {
 	public static void m1(Object o)
 	{
 		System.out.println("Hello this is m1() method....");
+		
+		System.out.println("This is newly added in this method....");
 	}
 }
 
