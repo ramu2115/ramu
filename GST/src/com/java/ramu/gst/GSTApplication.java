@@ -7,7 +7,7 @@ public class GSTApplication {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Enter an Amount");
+		System.out.println("Enter an Amount...");
 		
 		Scanner sc = new Scanner(System.in);
 		
